@@ -1,1 +1,3 @@
-# -Impact-of-Discounts-on-Supermarket-Profitability
+# Impact-of-Discounts-on-Supermarket-Profitability
+
+This project, "Impact of Discounts on Supermarket Profitability," analyzed sales data from supermarkets across the US to determine how discounts affect profits. The study found that supermarkets without discounts achieved higher profits compared to those offering discounts. Additionally, high-demand categories such as office supplies, furniture, and technology thrive without discounts. The project utilized heat maps and city-level analysis to pinpoint profitable regions and product categories. The recommendation is to reduce discounts to enhance overall profitability. The project also includes a Tableau visualization of a sample superstore dataset.
